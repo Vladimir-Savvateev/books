@@ -4,11 +4,13 @@
       "id": 1,
       "url": "blazhen_nezloblivyi_poet",
       "headLine": "Блажен незлобливый поэт",
+      "author": "Николай Алексеевич Некрасов"
       "size": 1
     },
     {
       "id": 4,
       "url": "gore_ot_uma",
+      "author": "Александр Сергеевич Грибоедов"
       "headLine": "Горе от ума",
       "size": 4
     }
